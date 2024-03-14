@@ -6,7 +6,6 @@ import (
 	"math/rand"
 )
 
-// main func of the project
 func main() {
 	var p, g int
 	_, err := fmt.Scanf("g is %d and p is %d", &g, &p)
